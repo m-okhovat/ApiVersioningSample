@@ -5,11 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\v2\" />
-    <Folder Include="Controllers\v1\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="microsoft.aspnetcore.mvc.versioning" Version="4.2.0" />
   </ItemGroup>
 
